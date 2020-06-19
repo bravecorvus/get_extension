@@ -1,4 +1,4 @@
-module get_extension
+module github.com/gilgameshskytrooper/get_extension
 
 go 1.14
 
